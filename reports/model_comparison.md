@@ -4,7 +4,7 @@ Average backtest metrics across all SKUs and folds (horizon=28 days, 3 rolling f
 
 | Model | MAE | RMSE | MAPE (%) | WAPE (%) |
 |---|---|---|---|---|
-| xgboost | 13.32 | 17.73 | 18.93 | 19.09 |
+| xgboost | 13.53 | 17.62 | 18.99 | 19.11 |
 | sarima | 14.38 | 17.98 | 20.24 | 20.42 |
 | moving_average_28 | 16.73 | 21.10 | 25.67 | 24.19 |
 | moving_average_7 | 17.42 | 21.48 | 27.11 | 25.02 |
